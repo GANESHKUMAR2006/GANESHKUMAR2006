@@ -14,7 +14,7 @@
 - 📫 How to reach me **www.linkedin.com/in/ganesh-kumar7**
 <p align="right">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4cHhwNWt2cXNmNzYyMG5jbmt2eWlpYTE5M215Y2dmZG5iZzdxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="Typing animation" width="300"/>
+       alt="Typing animation" width="150"/>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
