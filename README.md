@@ -30,4 +30,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GANESHKUMAR2006&bg_color=000000&color=fffafa&line=00ff11&point=00ff11&area=true&hide_border=true" alt="Ganesh Kumar's GitHub Activity Graph">
 </p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshkumar2006&show_icons=true&locale=en" alt="ganeshkumar2006" /></p>
