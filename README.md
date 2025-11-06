@@ -12,19 +12,16 @@
 - 💬 Ask me about **PROBLEM SOLVER WITH MATHEMATICS LOGIC REASONING**
 
 - 📫 How to reach me **www.linkedin.com/in/ganesh-kumar7**
-
+<p align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4cHhwNWt2cXNmNzYyMG5jbmt2eWlpYTE5M215Y2dmZG5iZzdxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="Typing animation" width="300"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ganesh_kumarr_6ef6275f48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ganesh_kumarr_6ef6275f48" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ganesh-kumar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ganesh-kumar7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ganeshkumar2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganeshkumar2006" height="30" width="40" /></a>
 </p>
-<p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4cHhwNWt2cXNmNzYyMG5jbmt2eWlpYTE5M215Y2dmZG5iZzdxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="Typing animation" width="300"/>
-</p>
-
-
 <h3 align="left">Work Space</h3>
 <p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/nvidia.png" alt="nvidia"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo.png" alt="external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo"/></p>
 <h3 align="left">Languages and Tools:</h3>
