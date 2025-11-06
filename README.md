@@ -20,8 +20,10 @@
 <a href="https://www.leetcode.com/ganeshkumar2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganeshkumar2006" height="30" width="40" /></a>
 </p>
 <p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4cHhwNWt2cXNmNzYyMG5jbmt2eWlpYTE5M215Y2dmZG5iZzdxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing animation" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4cHhwNWt2cXNmNzYyMG5jbmt2eWlpYTE5M215Y2dmZG5iZzdxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="Typing animation" width="300"/>
 </p>
+
 
 <h3 align="left">Work Space</h3>
 <p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/nvidia.png" alt="nvidia"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo.png" alt="external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo"/></p>
