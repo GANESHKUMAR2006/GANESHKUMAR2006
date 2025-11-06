@@ -14,6 +14,22 @@
 - 📫 How to reach me **www.linkedin.com/in/ganesh-kumar7**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://dev.to/ganesh_kumarr_6ef6275f48" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/ganesh-kumar7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ganeshkumar2006" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
+
+  <!-- Typing GIF aligned to the right -->
+  <img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M4cHhwNWt2cXNmNzYyMG5jbmt2eWlpYTE5M215Y2dmZG5iZzdxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing animation" />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://dev.to/ganesh_kumarr_6ef6275f48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ganesh_kumarr_6ef6275f48" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ganesh-kumar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ganesh-kumar7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ganeshkumar2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganeshkumar2006" height="30" width="40" /></a>
