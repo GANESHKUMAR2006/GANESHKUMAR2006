@@ -66,8 +66,9 @@
 
 <!-- This is a guaranteed working alternative to GitHub Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GANESHKUMAR2006&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GANESHKUMAR2006&theme=tokyonight" />
 </p>
+
 
 
 
