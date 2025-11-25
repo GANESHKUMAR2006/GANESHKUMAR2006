@@ -58,6 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api?username=ganeshkumar2006&show_icons=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ganeshkumar2006&show_icons=true&hide_border=true" />
 </p>
+
 
