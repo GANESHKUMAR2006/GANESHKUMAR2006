@@ -58,5 +58,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ganeshkumar2006&show_icons=true&hide_border=true" />
+  <img src="https://YOUR-VERCEL-DOMAIN/api?username=ganeshkumar2006&show_icons=true&hide_border=true" />
 </p>
