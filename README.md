@@ -58,6 +58,10 @@
 </p>
 <p align="center">
   <img src="https://YOUR-VERCEL-DOMAIN/api?username=ganeshkumar2006&show_icons=true&hide_border=true" />
+  <p align="center">
+  <img src="https://ganeshstats.vercel.app/api?username=ganeshkumar2006&show_icons=true&hide_border=true" />
+</p>
+
 </p>
 
 
