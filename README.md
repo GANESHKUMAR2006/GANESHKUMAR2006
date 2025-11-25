@@ -65,11 +65,7 @@
 <h3 align="center">⭐ GitHub Summary</h3>
 
 <!-- This is a guaranteed working alternative to GitHub Stats -->
-<h3 align="center">🔥 Better GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GANESHKUMAR2006&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GANESHKUMAR2006&theme=tokyonight" />
