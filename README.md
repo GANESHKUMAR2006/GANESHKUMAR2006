@@ -59,6 +59,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GANESHKUMAR2006&bg_color=000000&color=ffffff&line=00ff11&point=00ff11&area=true&hide_border=true" />
 </p>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=GANESHKUMAR2006&v=2"/>
+</p>
+
 
 ---
 
