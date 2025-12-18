@@ -55,7 +55,8 @@
 ---
 
 <h3 align="center">🔥 GitHub Activity</h3>
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=GANESHKUMAR2006&v=2&bg_color=000000&color=ffffff&line=00ff11&point=00ff11&area=true&hide_border=true""/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GANESHKUMAR2006&v=2&bg_color=000000&color=ffffff&line=00ff11&point=00ff11&area=true&hide_border=true"/>
 </p>
 
 
