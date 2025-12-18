@@ -55,10 +55,7 @@
 ---
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com
-  ?user=GANESHKUMAR2006
-  &theme=dark
-  &hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=GANESHKUMAR2006&theme=dark&hide_border=true" />
 </p>
 
 
