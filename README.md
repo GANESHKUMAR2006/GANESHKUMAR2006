@@ -56,15 +56,10 @@
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=GANESHKUMAR2006&theme=dark&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=GANESHKUMAR2006&theme=dark&hide_border=true&cache_bust=3"
+    loading="lazy"
   />
-  <picture>
-    <source srcset="https://streak-stats.demolab.com/?user=GANESHKUMAR2006&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=GANESHKUMAR2006" />
-  </picture>
 </p>
-
 
 
 
