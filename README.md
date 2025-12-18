@@ -53,13 +53,6 @@
 </p>
 
 ---
-<h3 align="center">🔥 GitHub Stats</h3>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GANESHKUMAR2006&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
 
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
