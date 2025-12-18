@@ -56,10 +56,24 @@
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
   <picture>
-    <source srcset="https://streak-stats.demolab.com/?user=GANESHKUMAR2006&theme=dark&hide_border=true&cache_bust=7" />
-    <img src="https://github-readme-stats.vercel.app/api?username=GANESHKUMAR2006&show_icons=true&theme=dark" />
+    <!-- Dark mode -->
+    <source
+      srcset="https://streak-stats.demolab.com/?user=GANESHKUMAR2006&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source
+      srcset="https://streak-stats.demolab.com/?user=GANESHKUMAR2006&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- Fallback (ALWAYS WORKS) -->
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=GANESHKUMAR2006&show_icons=true"
+      alt="GitHub Stats"
+    />
   </picture>
 </p>
+
 
 
 
