@@ -49,7 +49,7 @@
 <h3 align="center">📊 LeetCode Stats</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/GaneshKumar2006?theme=light&font=Inter&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Ganeshkumar2006?theme=light&font=Inter&ext=contest" />
 </p>
 
 ---
